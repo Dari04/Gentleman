@@ -1,0 +1,179 @@
+.inicio{
+	background-color:#322E39;
+	height: 60px;
+}
+.comienzo{
+	font-size: 14px;
+	text-align: center;
+
+}
+.icono{
+	color:white;
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul li {
+	display: inline-block;
+	margin: 10px;
+}
+.titulo{
+	color: white;
+	font-family: "Open Sans";
+}
+.background{
+	background-color: #F4F5F8;
+	height: 530px;
+	border-bottom: 2px dashed #DDDDE8;
+}
+
+.fondo{
+	background-color: #DDDDE8;
+}
+.town{
+	height: 420px;
+	width: 670px;
+	margin-top: 50px;
+	margin-left: 30px;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+
+.title{
+	color: #252525;
+	font-size: 30px;
+	font-family: "Open Sans";
+	line-height: 1.0;
+	margin-top: 55px;
+}
+.letter{
+	margin-top: 20px;
+	line-height: 1.4;
+	font-family: "Open Sans";
+	font-size:15px;
+}
+.read{
+	background-color:#bebec4;
+	padding:8px;
+	font-family:"Open Sans";
+	border-radius:20px;
+	color:white;
+	width: 90px;
+	font-size: 10px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.background2{
+	background-color: #F4F5F8;
+	height: 110%;
+	border-bottom: 2px dashed #DDDDE8;
+}
+.fondo2{
+	background-color: #DDDDE8;
+}
+.abajo{
+	margin-top: 45px;
+}
+.last{
+	color:grey;
+	font-family: "Open Sans";
+	margin-left: 40px;
+}
+.popular{
+	font-size: 13px;
+	font-family: "Open Sans";
+	margin-left: 30px;
+
+
+}
+.work{
+	color:grey;
+	font-family: Arial;
+	text-decoration: none;
+	font-family: "Open Sans"
+}
+.thumbnail{
+	margin: 25px;
+	box-shadow: 5px 5px 5px 2px #85A98B;
+
+}
+.Capucci{
+	margin-top: 10px;
+	color: grey;
+	font-family: "Open Sans";
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.Mark{
+	font-size: 11px;
+	font-family: "Open Sans";
+
+}
+.load{
+	background-color:#6C6577;
+	font-family:"Open Sans";
+	border-radius:20px;
+	color:white;
+	font-size: 15px;
+	width: 130px;
+	padding: 13px;
+	text-align: center;
+	margin:auto;
+}
+.down{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.fondo3{
+	background-color: #DDDDE8;
+}
+.background3{
+	background-color: #F4F5F8;
+	border-bottom: 2px dashed #DDDDE8;
+}
+.wordpress{
+	padding-top: 50px;
+	font-size: 25px;
+	padding-bottom: 50px;
+	color: grey;
+	padding-left: 20px;
+}
+.fondo4{
+	background-color: #322E39;
+}
+.background4{
+	background-color: #322E39;
+	height: 200px;
+}
+.alpha{
+	color: #8F90AA;
+	text-align: justify;
+	margin-top: 60px;
+	font-size: 15px;
+	font-family: "Open Sans";
+}
+.diseno{
+	color:#EE2465;
+	margin-top: 60px;
+}
+.color{
+	color: white;
+	margin-top: 60px;
+	margin-left: 40px;
+}
+.media{
+	color: grey;
+	font-size: 15px;
+	font-family: "Open Sans";
+	margin-top: 60px;
+	text-align: center;
+}
+.twit,.face,.goo,.chro,.slide{
+	border: 1px dashed white;
+	border-radius: 20px;
+	padding: 10px;
+}
+.lo{
+	color: white;
+}
